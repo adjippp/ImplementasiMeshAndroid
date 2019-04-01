@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WiMesh</string>
+    <string name="action_settings">WiMesh</string>
+    <string name="title_activity_wi_fi">WiFiActivity</string>
+    <string name="title_activity_ConnectedPhone">ConnectedPhone</string>
+    <string name="title_activity_Help">Help</string>
+    <string name="wifi">Connect</string>
+    <string name="connected">Connected Phone</string>
+    <string name="help">Help</string>
+
+</resources>
